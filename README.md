@@ -1,12 +1,13 @@
-### Hi there 👋
-### 👋 I’m Leonard-Allen, I have a background in Agricutural & Applied Economics(MSc) as well as a strong data science/analytics background
+### Hi there 👋, I’m Leonard-Allen (Leo)
+### ⚡ I am a [PhD student](https://aaec.vt.edu/people/graduatestudents/index/quaye-leonard-allen.html) in Agricutural & Applied Economics at Virginia Tech
+### 🔭 I have a background in Agricutural & Applied Economics (MSc) from the University of Georgia, Athens, as well as a strong data science/analytics background
 ### 👀 I’m interested in web development, machine learning, data analytics and science
-### 🌱 I’m currently learning python, R.
-### 💞️ I’m looking to collaborate on on data science projects that involves machine learning methods, as well as the development of data analytics web applications
+### 🌱 I’m currently learning python, R, and Git.
+### 👯 I’m looking to collaborate on on data science projects that involves machine learning methods, as well as the development of data analytics web applications
 ### 📫 Contact me via Twitter [@LeoAllen8](https://twitter.com/AllenQuaye)
 
 <!--
-**leoallen8/leoallen8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leoallen8/leoallen8** i s a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
