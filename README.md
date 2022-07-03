@@ -3,7 +3,7 @@
 ### 👀 I’m interested in web development, machine learning, data analytics and science
 ### 🌱 I’m currently learning python, R.
 ### 💞️ I’m looking to collaborate on on data science projects that involves machine learning methods, as well as the development of data analytics web applications
-### 📫 Contact me via Twitter [@LeoAllen8](https://twitter.com/LeoAllen8)
+### 📫 Contact me via Twitter [@LeoAllen8](https://twitter.com/AllenQuaye)
 
 <!--
 **leoallen8/leoallen8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
