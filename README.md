@@ -5,6 +5,7 @@
 ### 🌱 I’m currently learning python, R, and Git.
 ### 👯 I’m looking to collaborate on on data science projects that involves machine learning methods, as well as the development of data analytics web applications
 ### 📫 Contact me via Twitter [@AllenQuaye](https://twitter.com/AllenQuaye)
+### :earth_africa: Visit my [website](https://sites.google.com/vt.edu/leo-allen-quaye)
 
 <!--
 **leoallen8/leoallen8** i s a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
