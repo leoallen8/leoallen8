@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m Leonard-Allen (Leo)
 ### ⚡ I am a [PhD student](https://aaec.vt.edu/academics/graduate/phd_students.html) in Agricultural & Applied Economics at Virginia Tech
 ### 🔭 I have a background in Agricultural and Applied Economics (MSc) from the University of Georgia, Athens, as well as a strong data science/analytics background
-### 👀 I’m interested in web development, machine learning, data analytics, and science
+### 👀 I’m interested in web development, machine learning, data analytics, and data science
 ### 🌱 I’m currently learning Python, R, and Git.
 ### 👯 I’m looking to collaborate on data science projects that involve machine learning methods, as well as the development of data analytics web applications
 ### 📫 Contact me via Twitter [@AllenQuaye](https://twitter.com/AllenQuaye)
