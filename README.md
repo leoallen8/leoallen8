@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m Leonard-Allen (Leo)
-### ⚡ I am a [PhD student](https://aaec.vt.edu/academics/graduate/phd_students.html) in Agricultural & Applied Economics at Virginia Tech
+### ⚡ I am a [PhD student](https://aaec.vt.edu/academics/graduate/Job_Candidates.html) in Agricultural & Applied Economics at Virginia Tech
 ### 🔭 I have a background in Agricultural and Applied Economics (MSc) from the University of Georgia, Athens, as well as a strong data science/analytics background
 ### 👀 I’m interested in web development, machine learning, data analytics, and data science
 ### 🌱 I’m currently learning Python, R, and Git.
